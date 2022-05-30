@@ -4,10 +4,10 @@ This project was carried out during the [ALX-SOFTWARE_ENGINEERING_PROGRAMME](htt
 
 ## TECHNOLOGIES USED DURING THIS PROJECT
 
-*Python Scripts are written with Python 3.8.5
-*scripts are tested on the Ubuntu 20.04 LTS
+* Python Scripts are written with Python 3.8.5
+* scripts are tested on the Ubuntu 20.04 LTS
 
-###PROJECTS
+### PROJECTS
 
 List of projects carried outing the studies
 
