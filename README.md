@@ -14,4 +14,4 @@ List of projects carried outing the studies
 | project name      | description |
 | ----------- | ----------- |
 | 0x00-hello_world      | basics of python       |
-| Paragraph   | Text        |
+| 0x01. Python - if/else, loops, functions   | focuses on the conditional statements and loop statements        |
