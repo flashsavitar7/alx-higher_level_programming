@@ -1,8 +1,8 @@
-def element_at(my_list, idx, element):
+#!/usr/bin/python3
+def element_at(my_list, idx,):
     length = len(my_list)
     if idx < 0:
         return (None)
     if idx > length - 1:
         return (None)
-    my_list[idx] = element
-    return (my_list)
+    return (my_list[idx])
